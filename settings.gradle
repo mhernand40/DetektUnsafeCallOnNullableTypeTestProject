@@ -1,0 +1,3 @@
+include ':jvm-library'
+include ':android-library'
+rootProject.name = "DetektUnsafeCallOnNullableTypeTestProject"
